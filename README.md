@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byomkesh03&show_icons=true&locale=en" alt="byomkesh03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byomkesh03&" alt="byomkesh03" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=byomkesh03&" alt="byomkesh03" /></p>
 
 
 
