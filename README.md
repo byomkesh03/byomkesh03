@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **byomkeshmahato03@gmail.com**
 
-- ⚡ Fun fact **I think I am funny xD**
+- ⚡ Fun fact **I prefer using the dark mode because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
