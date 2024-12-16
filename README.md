@@ -1,6 +1,6 @@
 ![logo](https://github.com/byomkesh03/byomkesh03/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Byomkesh Mahato</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">An enthusiastic software developer with love for crafting innovative solutions, driven by a passion for technology and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byomkesh03&label=Profile%20views&color=0e75b6&style=flat" alt="byomkesh03" /> </p>
 
